@@ -18,7 +18,8 @@ Cocos中加载图集文件中的图要写入Sprite中的atlas和sprite frame两�
 > OK，你说你不懂openGL，那你想想网页设计师前台制作css的时候，为了提高载入速度，往往把很多小图拼接成一张大图，一次载入，减少I/O，提高速度。这个好懂吧。
 > 
 > 所以不管怎么样，“拼大图”这个流程不可少。
-> *来自[https://blog.csdn.net/azhou_hui/article/details/9113907?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase](https://blog.csdn.net/azhou_hui/article/details/9113907?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)
+> 
+> *来自[https://blog.csdn.net/azhou_hui/article/details/9113907?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase](https://blog.csdn.net/azhou_hui/article/details/9113907?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase)*
 
 
 ----------
